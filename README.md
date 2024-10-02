@@ -25,10 +25,10 @@ Sinta-se à vontade para conferir meus projetos aqui no GitHub, onde compartilho
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40">
   </a>
   <a href="https://www.facebook.com/ddqueiro/?locale=pt_BR" target="_blank">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Facebook.svg" alt="Facebook" width="40" height="40">
+  <img src="https://www.svgrepo.com/show/382721/facebook.svg" alt="Facebook" width="40" height="40">
   </a>
   <a href="https://www.instagram.com/ddqueiro/?hl=pt" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="Instagram" width="40" height="40">
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Instagram" width="40" height="40">
   </a>
 </p>
 
