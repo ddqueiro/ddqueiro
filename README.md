@@ -11,7 +11,6 @@ Sinta-se à vontade para conferir meus projetos aqui no GitHub, onde compartilho
 <img src="https://i.imgur.com/gVNkK28.png" alt="Vs Code" width="45" height="45">
 <img src="https://i.imgur.com/bUNX5GP.png" alt="Excel" width="45" height="45">
 </p>
-<h2 align="center" style="font-family: Arial; font-size: 24px;">Portfólio</h2>
 <h2 align="center" style="font-family: Arial; font-size: 24px;">Projetos</h2>
 
 <h2 align="center" style="font-family: Arial; font-size: 24px;">Hobbies</h2>
