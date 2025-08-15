@@ -1,8 +1,8 @@
 # Hello there 👋
 
 A Data & Cloud Enthusiast by day ☼ and an AI/Big Data Explorer by night ☾  
-**In transition to IT | Seeking opportunities in **any area of Data**  **  
-Volunteer & Mentor at **Programe como uma Garota**  
+**In transition to IT** | Seeking opportunities in **any area of Data**  
+Volunteer & Mentor at **Programe como uma Garota** and I run **Data Analysis Bootcamps** at **SoulCode Academy**.
 
 ---
 
