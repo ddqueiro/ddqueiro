@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**ddqueiro/ddqueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Data & Cloud Enthusiast by day ☼ and an AI/Big Data Explorer by night ☾  
+**In transition to IT | Seeking opportunities in **any area of Data**  **  
+Volunteer & Mentor at **Programe como uma Garota**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ **I use daily:** Python, SQL, PySpark, MongoDB, Docker, GCP, Streamlit  
+🌍 **I'm mostly active within:** Data & AI Community  
+💅 **Projects:** E-Shop Brasil (ERP + Big Data), Black Friday Sales Analysis, Credit Scoring with XAI, etc…  
+💬 **Ping me about:** data analysis, engineering, AI explainability, cloud computing, data visualization  
+💼 **Looking for:** Junior roles in Data Engineering, Data Analytics, and related areas
+🌱 **I’m currently learning** about AWS and JAVA ...
+
+---
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/dannyellyqueiroz/)
