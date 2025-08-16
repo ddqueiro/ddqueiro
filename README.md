@@ -6,7 +6,7 @@ Volunteer & Mentor at **Programe como uma Garota** 💖
 
 ---
 
-⚙️ **I use daily:** Python, SQL, PySpark, MongoDB, Docker, GCP, Streamlit  
+⚙️ **I use daily:** Python, SQL, PySpark, MongoDB, Docker, GCP
 
 🌍 **I'm mostly active within:** Data & AI Community  
  
