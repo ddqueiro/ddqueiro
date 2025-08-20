@@ -1,6 +1,6 @@
 # Hello there 👋
 I'm Dannyelly! 
-A **Data & Cloud Enthusiast** by day ☼ and an **AI/Big Data Explorer** by night ☾  
+A **Data & Cloud Enthusiast** by day ☼ and a **Gamer** by night ☾  
 **In transition to IT** | Seeking opportunities in **any area of Data**  
 Volunteer & Mentor at **Programe como uma Garota** 💖
 
