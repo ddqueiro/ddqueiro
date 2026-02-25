@@ -10,10 +10,10 @@ Voluntária & Mentora na **Programe como uma Garota** 💖
 
 🌍 **Sou mais ativa na:** Comunidade de mulheres na tecnologia & IA  
 
-📊 [**Projetos que criei na faculdade**](https://github.com/ddqueiro/gestao_tecnologia_da_informacao)  
+📊 ## [**Projetos que criei na faculdade**](https://github.com/ddqueiro/gestao_tecnologia_da_informacao)  
 📂 Este repositório contém projetos desenvolvidos durante minha graduação, abordando temas como **Matemática Aplicada, Ciência de Dados, Cibersegurança, Redes, Big Data e Explainable AI**.  
 
-## 📌 Projetos Selecionados
+# 📌 Projetos Selecionados
 
 🚀 **Data Science – Dados Ambientais**
 
@@ -30,10 +30,10 @@ Projeto avançado envolvendo Inteligência Artificial e explicabilidade de model
 Aplicação de conceitos de Big Data usando MongoDB, alinhando sua formação com a área de Engenharia de Dados (NoSQL e grandes conjuntos de dados).
 🔗 https://github.com/ddqueiro/gestao_tecnologia_da_informacao/tree/main/big_data_mongodb
 
-🚀 [**Projetos que criei no Bootcamp de Dados**](https://github.com/ddqueiro/bootcamp_analise_de_dados/tree/main)  
+🚀 ## [**Projetos que criei no Bootcamp de Dados**](https://github.com/ddqueiro/bootcamp_analise_de_dados/tree/main)  
 📂 Este repositório reúne os projetos que desenvolvi durante um Bootcamp de Dados. Cada pasta explora diferentes ferramentas e técnicas em **SQL, Python, MongoDB, ETL, PySpark e Cloud**.  
 
-## 📌 Projetos Selecionados
+# 📌 Projetos Selecionados
 
 🚀 **MongoDB Car Rental Data Pipeline**  
 Modelagem e análises utilizando MongoDB e Aggregation Framework em cenário de locadora.  
