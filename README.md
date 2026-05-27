@@ -1,8 +1,7 @@
 # Olá 👋
 
 Eu sou a Dannyelly!  
-Uma **Entusiasta de Tecnologia, Dados & Cloud** durante o dia ☼ e uma **Gamer** à noite ☾  
-**Em transição para TI** | Buscando oportunidades em **Engenharia de Dados**  
+Uma **Entusiasta de Tecnologia, Dados & Cloud** durante o dia ☼ e uma **Gamer** à noite ☾  | 
 Voluntária & Mentora na **Programe como uma Garota** 💖  
 
 ---
